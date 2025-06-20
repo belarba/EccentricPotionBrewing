@@ -20,10 +20,6 @@ This app uses the [Hugging Face Inference API](https://huggingface.co/inference-
 <img width="942" alt="Captura de ecrã 2025-06-20, às 11 59 38" src="https://github.com/user-attachments/assets/9a4cd5b5-bc89-4794-b3c1-e62f38ab877b" />
 
 
-- Main interface
-- Example of generated potion
-- Ingredient input
-
 ## 🚀 Getting Started
 
 ### Prerequisites
