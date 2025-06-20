@@ -26,6 +26,7 @@ This app uses the [Hugging Face Inference API](https://huggingface.co/inference-
 
 - Node.js (v18+ recommended)
 - npm or yarn
+- Create a Hugging Face Access Token and define it on .ENV file as VITE_HF_ACCESS_TOKEN
 
 ### Installation
 
